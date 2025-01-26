@@ -1,4 +1,4 @@
 # git_test
 
 "Hello World!"
-"Hell Odin!"
+"Hello Odin!"
